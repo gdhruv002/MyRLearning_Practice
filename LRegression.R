@@ -1,6 +1,6 @@
 #Multiple Linear Regression
 # MyBookSucks.Com
-
+#https://www.youtube.com/watch?v=WRp_MpYQFbg
 # Independent Variable
 Grades <- c(82,98,76,68,84,99,67,58,50,78)
 
